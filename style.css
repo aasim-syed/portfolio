@@ -233,7 +233,8 @@ border-radius: 12px;
   margin: 0 auto;
   margin-bottom: 6rem;
 }
-
+.project-grid:hover{
+box-shadow: 5px 10px 18px #888888;}
 @media (max-width: 30.625em) {
   .projects-section {
     padding: 6rem 1rem;
