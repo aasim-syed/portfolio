@@ -186,7 +186,7 @@ border-radius: 12px;
   padding: 10px;
 }
 .fd:hover{
-  transform: scale(1.1); box-shadow: 5px 10px 18px #888888;color: #48EA23;border-style: double;
+  transform: scale(1.1); box-shadow: 5px 10px 18px #888888;color: #48EA23;border-style: double;transition-duration:5s;
 }
 .welcome-section > p {
   font-size: 3rem;
