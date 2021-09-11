@@ -207,7 +207,11 @@ border-radius: 12px;
     bottom: 100%;
   }
 }
-
+.projects-section:hover{
+box-shadow:5px 5px 8px blue, 10px 10px 8px red, 15px 15px 8px green;
+  transform:2px;
+  border-radius:9px;
+}
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto 6rem auto;
